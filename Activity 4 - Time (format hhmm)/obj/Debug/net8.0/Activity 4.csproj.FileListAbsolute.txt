@@ -12,3 +12,18 @@ C:\Users\Juan\Desktop\Activity 4\Activity 4\obj\Debug\net8.0\refint\Activity 4.d
 C:\Users\Juan\Desktop\Activity 4\Activity 4\obj\Debug\net8.0\Activity 4.pdb
 C:\Users\Juan\Desktop\Activity 4\Activity 4\obj\Debug\net8.0\Activity 4.genruntimeconfig.cache
 C:\Users\Juan\Desktop\Activity 4\Activity 4\obj\Debug\net8.0\ref\Activity 4.dll
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\bin\Debug\net8.0\Activity 4.exe
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\bin\Debug\net8.0\Activity 4.deps.json
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\bin\Debug\net8.0\Activity 4.runtimeconfig.json
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\bin\Debug\net8.0\Activity 4.dll
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\bin\Debug\net8.0\Activity 4.pdb
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\obj\Debug\net8.0\Activity 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\obj\Debug\net8.0\Activity 4.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\obj\Debug\net8.0\Activity 4.AssemblyInfo.cs
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\obj\Debug\net8.0\Activity 4.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\obj\Debug\net8.0\Activity 4.sourcelink.json
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\obj\Debug\net8.0\Activity 4.dll
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\obj\Debug\net8.0\refint\Activity 4.dll
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\obj\Debug\net8.0\Activity 4.pdb
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\obj\Debug\net8.0\Activity 4.genruntimeconfig.cache
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 4 - Time (format hhmm)\obj\Debug\net8.0\ref\Activity 4.dll

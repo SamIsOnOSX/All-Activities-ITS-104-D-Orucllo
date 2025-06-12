@@ -12,3 +12,18 @@ C:\Users\Juan\Desktop\Activity-1\Activity-1\Activity-1\obj\Debug\net8.0\refint\A
 C:\Users\Juan\Desktop\Activity-1\Activity-1\Activity-1\obj\Debug\net8.0\Activity-1.pdb
 C:\Users\Juan\Desktop\Activity-1\Activity-1\Activity-1\obj\Debug\net8.0\Activity-1.genruntimeconfig.cache
 C:\Users\Juan\Desktop\Activity-1\Activity-1\Activity-1\obj\Debug\net8.0\ref\Activity-1.dll
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\bin\Debug\net8.0\Activity-1.exe
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\bin\Debug\net8.0\Activity-1.deps.json
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\bin\Debug\net8.0\Activity-1.runtimeconfig.json
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\bin\Debug\net8.0\Activity-1.dll
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\bin\Debug\net8.0\Activity-1.pdb
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\obj\Debug\net8.0\Activity-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\obj\Debug\net8.0\Activity-1.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\obj\Debug\net8.0\Activity-1.AssemblyInfo.cs
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\obj\Debug\net8.0\Activity-1.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\obj\Debug\net8.0\Activity-1.sourcelink.json
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\obj\Debug\net8.0\Activity-1.dll
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\obj\Debug\net8.0\refint\Activity-1.dll
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\obj\Debug\net8.0\Activity-1.pdb
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\obj\Debug\net8.0\Activity-1.genruntimeconfig.cache
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 1 - Temperature Conversion, Personal Information & Basic Math Operation\obj\Debug\net8.0\ref\Activity-1.dll

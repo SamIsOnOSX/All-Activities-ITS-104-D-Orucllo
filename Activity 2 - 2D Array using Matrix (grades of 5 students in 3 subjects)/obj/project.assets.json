@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan\\Desktop\\Activity-2\\C# Programming.csproj",
+      "projectUniqueName": "C:\\Users\\Juan\\Desktop\\All-Activities-ITS-104-D-Orucllo\\All-Activities-ITS-104-D-Orucllo\\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\\C# Programming.csproj",
       "projectName": "C# Programming",
-      "projectPath": "C:\\Users\\Juan\\Desktop\\Activity-2\\C# Programming.csproj",
+      "projectPath": "C:\\Users\\Juan\\Desktop\\All-Activities-ITS-104-D-Orucllo\\All-Activities-ITS-104-D-Orucllo\\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\\C# Programming.csproj",
       "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan\\Desktop\\Activity-2\\obj\\",
+      "outputPath": "C:\\Users\\Juan\\Desktop\\All-Activities-ITS-104-D-Orucllo\\All-Activities-ITS-104-D-Orucllo\\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

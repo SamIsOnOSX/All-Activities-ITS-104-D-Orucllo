@@ -41,3 +41,18 @@ C:\Users\Juan\Desktop\Activity-2\obj\Debug\net9.0\refint\C# Programming.dll
 C:\Users\Juan\Desktop\Activity-2\obj\Debug\net9.0\C# Programming.pdb
 C:\Users\Juan\Desktop\Activity-2\obj\Debug\net9.0\C# Programming.genruntimeconfig.cache
 C:\Users\Juan\Desktop\Activity-2\obj\Debug\net9.0\ref\C# Programming.dll
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\bin\Debug\net9.0\C# Programming.exe
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\bin\Debug\net9.0\C# Programming.deps.json
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\bin\Debug\net9.0\C# Programming.runtimeconfig.json
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\bin\Debug\net9.0\C# Programming.dll
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\bin\Debug\net9.0\C# Programming.pdb
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\obj\Debug\net9.0\C# Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\obj\Debug\net9.0\C# Programming.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\obj\Debug\net9.0\C# Programming.AssemblyInfo.cs
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\obj\Debug\net9.0\C# Programming.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\obj\Debug\net9.0\C# Programming.sourcelink.json
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\obj\Debug\net9.0\C# Programming.dll
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\obj\Debug\net9.0\refint\C# Programming.dll
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\obj\Debug\net9.0\C# Programming.pdb
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\obj\Debug\net9.0\C# Programming.genruntimeconfig.cache
+C:\Users\Juan\Desktop\All-Activities-ITS-104-D-Orucllo\All-Activities-ITS-104-D-Orucllo\Activity 2 - 2D Array using Matrix (grades of 5 students in 3 subjects)\obj\Debug\net9.0\ref\C# Programming.dll
