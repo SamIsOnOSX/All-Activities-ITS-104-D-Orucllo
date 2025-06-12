@@ -1,0 +1,14 @@
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\bin\Debug\net8.0\Activity-5-ITS-104-D.exe
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\bin\Debug\net8.0\Activity-5-ITS-104-D.deps.json
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\bin\Debug\net8.0\Activity-5-ITS-104-D.runtimeconfig.json
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\bin\Debug\net8.0\Activity-5-ITS-104-D.dll
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\bin\Debug\net8.0\Activity-5-ITS-104-D.pdb
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\obj\Debug\net8.0\Activity-5-ITS-104-D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\obj\Debug\net8.0\Activity-5-ITS-104-D.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\obj\Debug\net8.0\Activity-5-ITS-104-D.AssemblyInfo.cs
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\obj\Debug\net8.0\Activity-5-ITS-104-D.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\obj\Debug\net8.0\Activity-5-ITS-104-D.dll
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\obj\Debug\net8.0\refint\Activity-5-ITS-104-D.dll
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\obj\Debug\net8.0\Activity-5-ITS-104-D.pdb
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\obj\Debug\net8.0\Activity-5-ITS-104-D.genruntimeconfig.cache
+C:\Users\Juan\Desktop\Activity-5-ITS-104-D\Activity-5-ITS-104-D\obj\Debug\net8.0\ref\Activity-5-ITS-104-D.dll

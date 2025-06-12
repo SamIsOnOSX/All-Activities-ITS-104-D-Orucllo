@@ -1,0 +1,14 @@
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\bin\Debug\net8.0\Activity-3-ITS-104-D_Orcullo.exe
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\bin\Debug\net8.0\Activity-3-ITS-104-D_Orcullo.deps.json
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\bin\Debug\net8.0\Activity-3-ITS-104-D_Orcullo.runtimeconfig.json
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\bin\Debug\net8.0\Activity-3-ITS-104-D_Orcullo.dll
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\bin\Debug\net8.0\Activity-3-ITS-104-D_Orcullo.pdb
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\obj\Debug\net8.0\Activity-3-ITS-104-D_Orcullo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\obj\Debug\net8.0\Activity-3-ITS-104-D_Orcullo.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\obj\Debug\net8.0\Activity-3-ITS-104-D_Orcullo.AssemblyInfo.cs
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\obj\Debug\net8.0\Activity-3-ITS-104-D_Orcullo.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\obj\Debug\net8.0\Activity-3-ITS-104-D_Orcullo.dll
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\obj\Debug\net8.0\refint\Activity-3-ITS-104-D_Orcullo.dll
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\obj\Debug\net8.0\Activity-3-ITS-104-D_Orcullo.pdb
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\obj\Debug\net8.0\Activity-3-ITS-104-D_Orcullo.genruntimeconfig.cache
+C:\Users\Juan\Desktop\Activity-3-ITS-104-D_Orcullo\Activity-3-ITS-104-D_Orcullo\obj\Debug\net8.0\ref\Activity-3-ITS-104-D_Orcullo.dll

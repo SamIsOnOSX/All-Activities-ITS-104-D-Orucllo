@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Activity-5-ITS-104-D/1.0.0": {
+        "runtime": {
+          "Activity-5-ITS-104-D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity-5-ITS-104-D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Activity-6-ITS-104-D_Orcullo/1.0.0": {
+        "runtime": {
+          "Activity-6-ITS-104-D_Orcullo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity-6-ITS-104-D_Orcullo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
